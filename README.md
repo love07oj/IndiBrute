@@ -1,4 +1,8 @@
 # IndiBrute
+![Go](https://img.shields.io/badge/Go-1.21-blue?logo=go)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 
 **IndiBrute** is a fast and efficient CLI tool written in Go to generate wordlists of Indian 10-digit mobile numbers. Tailored for ethical hacking, red teaming, and penetration testing, it allows users to create mobile-number-based wordlists for brute-force simulations.
 
